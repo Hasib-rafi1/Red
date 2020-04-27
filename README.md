@@ -14,7 +14,9 @@ One integer which is the number of Dominating sets of the graph modulo 109+7 (be
 Input 1:
 
 2
+
 1 5
+
 3 3
 
 Output 1:
@@ -25,8 +27,11 @@ Output 1:
 Input 2: 
 
 3
+
 1 3
+
 2 5
+
 4 6
 
 Output 2:
