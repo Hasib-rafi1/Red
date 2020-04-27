@@ -10,17 +10,25 @@ Lines 2 to n+1: li and ri the start and end point of interval i.
 One integer which is the number of Dominating sets of the graph modulo 109+7 (be careful about overflows).
 
 # Sample Test Cases
+
 Input 1:
+
 2
 1 5
 3 3
+
 Output 1:
+
 3
 --------------------------------------------------------------------------------------------------------------------------
+
 Input 2: 
+
 3
 1 3
 2 5
 4 6
+
 Output 2:
+
 5
